@@ -82,7 +82,7 @@ Partial Class DinerMenuForm
         Me.DisplaySpecialLabel.Name = "DisplaySpecialLabel"
         Me.DisplaySpecialLabel.Size = New System.Drawing.Size(1025, 379)
         Me.DisplaySpecialLabel.TabIndex = 5
-        Me.DisplaySpecialLabel.Text = "Label1"
+        Me.DisplaySpecialLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'DinerMenuForm
         '
