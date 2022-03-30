@@ -2,7 +2,7 @@
 'RCEt0265
 'Spring 2022
 'Diner Menu Program
-'
+'https://github.com/SmitFall/DinerMenu
 
 Public Class DinerMenuForm
     Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
